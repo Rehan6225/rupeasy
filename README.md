@@ -31,6 +31,7 @@
 
 `Frontend Library : React JS`
 
+
 ## What our website does?
 
 - [x] Budget Creation
@@ -40,11 +41,13 @@
 - [ ] Emergency Fund
 - [ ] Property Management
 
+
 ## Preview
 
 ![gif](gif/income.gif)
 
 ![gif](gif/expense.gif)
+
 
 ## Social Impact
 
@@ -53,6 +56,7 @@
 - Allows the workforce unaware of complicated excel functions and spreadsheets to manage and automate their financial management.
 
 - Making a workforce who can manage their budget independently. 
+
 
 ## Business Model
 
@@ -71,6 +75,7 @@
 > Data stays in Indian servers.
 
 > A trust to share income and other financial information.
+
 
 ## References
 
