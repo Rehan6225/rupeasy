@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  One-stop for all your private budgeting needs
+  ## One-stop for all your private budgeting needs
 </p>
 <!--
 <p align="center">
