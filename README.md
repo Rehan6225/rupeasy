@@ -6,23 +6,15 @@
 <h2 align="center">
    One-stop for all your personal budgeting needs
 </h2>
-<!--
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-  </a>
-</p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
--->
 
 ## Our Vision
 
-Managing our money wisely is something the Indian’s are known for. 
+>Managing our money wisely is something the Indian’s are known for. 
 
-The idea of savings and smart management of money however are a bit too difficult to implement without the knowledge of working an excel sheet. 
+>The idea of savings and smart management of money however are a bit too difficult to implement without the knowledge of working an excel sheet. 
 
-We decided to create a single platform where every Indian on a salary can put in numbers for our system to crunch and help them manage their money wisely.
+>We decided to create a single platform where every Indian on a salary can put in numbers for our system to crunch and help them manage their money wisely.
 
 <!--
 ### TL;DR
