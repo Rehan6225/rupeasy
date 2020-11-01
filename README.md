@@ -16,6 +16,15 @@
 
 >We decided to create a single platform where every Indian on a salary can put in numbers for our system to crunch and help them manage their money wisely.
 
+
+## Tech Stacks
+
+>Server : Apache
+>Database : MongoDB/SQL
+>Programming Language : Java Script
+>Framework : Express
+>Frontend Library : React JS
+
 <!--
 ### TL;DR
 
