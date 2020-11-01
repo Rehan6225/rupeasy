@@ -13,16 +13,17 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)-->
 
-## 🚨 Forking this repo (please read!)
+## Our Vision
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+Managing our money wisely is something the Indian’s are known for. 
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+The idea of savings and smart management of money however are a bit too difficult to implement without the knowledge of working an excel sheet. 
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+We decided to create a single platform where every Indian on a salary can put in numbers for our system to crunch and help them manage their money wisely.
 
+<!--
 ### TL;DR
 
 Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
