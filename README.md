@@ -3,9 +3,9 @@
 </p>
 
 
-<p align="center">
-  ## One-stop for all your private budgeting needs
-</p>
+<h2 align="center">
+   One-stop for all your private budgeting needs
+</h2>
 <!--
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
