@@ -19,11 +19,16 @@
 
 ## Tech Stacks
 
->Server : Apache
->Database : MongoDB/SQL
->Programming Language : Java Script
->Framework : Express
->Frontend Library : React JS
+~Server : Apache~
+
+~Database : MongoDB/SQL~
+
+~Programming Language : Java Script~
+
+~Framework : Express~
+
+~Frontend Library : React JS~
+
 
 <!--
 ### TL;DR
