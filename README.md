@@ -50,7 +50,7 @@
 ![gif](gif/expense.gif)
 
 
-## Social Impact
+## :raising_hand_man:Social Impact
 
 - Encouraging users to go digital and manage their finances in an organized fashion rather than scribbling it into a notebook.
 
