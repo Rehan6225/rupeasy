@@ -12,7 +12,8 @@
 </h2>
 
 
-## Our Vision
+ 
+## :eyes:Our Vision
 
 - Managing our money wisely is something the Indian’s are known for. 
 
@@ -21,7 +22,7 @@
 - We decided to create a single platform where every Indian on a salary can put in numbers for our system to crunch and help them manage their money wisely.
 
 
-## Tech Stacks
+## :scroll:Tech Stacks
 
 `Server : Apache`
 
@@ -32,7 +33,7 @@
 `Frontend Library : React JS`
 
 
-## What our website does?
+## :computer:What our website does?
 
 - [x] Budget Creation
 - [x] Expense Tracking
@@ -42,7 +43,7 @@
 - [ ] Property Management
 
 
-## Preview
+## :clapper:Preview
 
 ![gif](gif/income.gif)
 
@@ -58,7 +59,7 @@
 - Making a workforce who can manage their budget independently. 
 
 
-## Business Model
+## :moneybag:Business Model
 
 #### Cost Structures
 
@@ -77,7 +78,7 @@
 > A trust to share income and other financial information.
 
 
-## References
+## :black_nib:References
 
 #### Articles referred
 
