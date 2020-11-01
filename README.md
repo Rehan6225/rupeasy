@@ -40,7 +40,11 @@
 - [ ] Emergency Fund
 - [ ] Property Management
 
+## Preview
+
 ![gif](gif/income.gif)
+
+![gif](gif/expense.gif)
 
 ## Social Impact
 
