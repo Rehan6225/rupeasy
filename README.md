@@ -10,26 +10,64 @@
 
 ## Our Vision
 
->Managing our money wisely is something the Indian’s are known for. 
+- Managing our money wisely is something the Indian’s are known for. 
 
->The idea of savings and smart management of money however are a bit too difficult to implement without the knowledge of working an excel sheet. 
+- The idea of savings and smart management of money however are a bit too difficult to implement without the knowledge of working an excel sheet. 
 
->We decided to create a single platform where every Indian on a salary can put in numbers for our system to crunch and help them manage their money wisely.
+- We decided to create a single platform where every Indian on a salary can put in numbers for our system to crunch and help them manage their money wisely.
 
 
 ## Tech Stacks
 
-~Server : Apache~
+`Server : Apache`
 
-~Database : MongoDB/SQL~
+`Programming Language : Java Script`
 
-~Programming Language : Java Script~
+`Framework : Express`
 
-~Framework : Express~
+`Frontend Library : React JS`
 
-~Frontend Library : React JS~
+## What our website does?
 
+>Budget Creation
 
+>Expense Tracking
+
+>Debt Tracking
+
+>Savings Goals
+
+>Investment Coaching
+
+>Emergency Fund
+
+>Property Management
+
+## Social Impact
+
+- Encouraging users to go digital and manage their finances in an organized fashion rather than scribbling it into a notebook.
+
+- Allows the workforce unaware of complicated excel functions and spreadsheets to manage and automate their financial management.
+
+- Making a workforce who can manage their budget independently. 
+
+## Business Model
+
+#### Cost Structures
+
+- Membership costs Rs. 600 per year for PRIME members and Rs. 1000 per year for PRO members.
+
+- Expense: Database Servers
+
+- Expense: Web Hosting
+
+#### Customer Relationships
+
+> Indian product made specifically for the Indian people
+
+> Data stays in Indian servers.
+
+> A trust to share income and other financial information.
 <!--
 ### TL;DR
 
