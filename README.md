@@ -10,11 +10,11 @@
 
 ## Our Vision
 
-Managing our money wisely is something the Indian’s are known for. 
+>Managing our money wisely is something the Indian’s are known for. 
 
-The idea of savings and smart management of money however are a bit too difficult to implement without the knowledge of working an excel sheet. 
+>The idea of savings and smart management of money however are a bit too difficult to implement without the knowledge of working an excel sheet. 
 
-We decided to create a single platform where every Indian on a salary can put in numbers for our system to crunch and help them manage their money wisely.
+>We decided to create a single platform where every Indian on a salary can put in numbers for our system to crunch and help them manage their money wisely.
 
 <!--
 ### TL;DR
