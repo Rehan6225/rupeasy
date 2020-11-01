@@ -55,11 +55,11 @@
 
 #### Cost Structures
 
-- Membership costs Rs. 600 per year for PRIME members and Rs. 1000 per year for PRO members.
+> Membership costs Rs. 600 per year for PRIME members and Rs. 1000 per year for PRO members.
 
-- Expense: Database Servers
+> Expense: Database Servers
 
-- Expense: Web Hosting
+> Expense: Web Hosting
 
 #### Customer Relationships
 
