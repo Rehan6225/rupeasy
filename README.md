@@ -2,6 +2,10 @@
   <img src="logo.png" alt="RupEasy_Logo" width="200"/>
 </p>
 
+<p align="center">
+    <a href="https://img.shields.io/badge/contributors-5-green" alt="Contributors">
+        <img src="https://img.shields.io/badge/contributors-5-green" /></a>    
+</p>
 
 <h2 align="center">
    One-stop for all your personal budgeting needs
