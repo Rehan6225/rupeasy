@@ -33,19 +33,14 @@
 
 ## What our website does?
 
->Budget Creation
+- [x] Budget Creation
+- [x] Expense Tracking
+- [x] Debt Tracking
+- [ ] Investment Coaching
+- [ ] Emergency Fund
+- [ ] Property Management
 
->Expense Tracking
-
->Debt Tracking
-
->Savings Goals
-
->Investment Coaching
-
->Emergency Fund
-
->Property Management
+![gif](gif/income.gif)
 
 ## Social Impact
 
