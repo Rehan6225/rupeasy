@@ -71,6 +71,31 @@
 > Data stays in Indian servers.
 
 > A trust to share income and other financial information.
+
+## References
+
+#### Articles referred
+
+- https://www.thebalance.com/best-personal-finance-apps-4170650
+
+- https://blog.twentyoverten.com/best-financial-advisor-websites-spring-2020-edition
+
+- https://www.thestreet.com/personal-finance/best-budget-apps-14788828
+
+- https://agilie.com/en/blog/how-to-build-an-effective-personal-finance-application
+
+- https://www.quora.com/What-do-you-consider-essential-in-a-personal-finance-app
+
+- https://www.cbinsights.com/research/personal-finance-apps-strategies/
+
+#### Videos referred
+
+- https://youtu.be/QoBgIrCl-Lw
+
+- https://youtu.be/HQzoZfc3GwQ
+
+- https://youtu.be/DiWyf_RtIYM
+
 <!--
 ### TL;DR
 
